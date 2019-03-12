@@ -1,0 +1,30 @@
+{
+    "editor.minimap.enabled": false,
+    "files.autoSave": "afterDelay",
+    "code-runner.enableAppInsights": false,
+    "workbench.iconTheme": "vscode-icons",
+    "editor.renderWhitespace": "all",
+    "editor.detectIndentation": false, 
+    "editor.tabSize": 4,
+    "workbench.colorCustomizations": {
+        "editor.background": "#362544",
+        "activityBar.border": "#287e7e",
+        "activityBar.background": "#551681",
+        "sideBar.background": "#2b143b",
+        "sideBar.border": "#287e7e",
+        "sideBarTitle.foreground": "#ebdc0d",
+        "editorGroupHeader.tabsBackground": "#2b143b",
+        "tab.activeBackground": "#551681",
+        "tab.inactiveBackground": "#2b143b",
+        "tab.activeForeground": "#02f8f8",
+        "tab.inactiveForeground": "#a5a1a8",
+        "tab.activeBorder": "#b2cc21",
+        "statusBar.background": "#287e7e",
+        "statusBar.foreground": "#f0e007",
+        "panel.background": "#2b143b",
+        "panel.border": "#287e7e",
+        "panelTitle.activeBorder": "#b2cc21",
+        "panelTitle.activeForeground": "#02f8f8",
+        "panelTitle.inactiveForeground": "#a5a1a8"
+    }
+}
